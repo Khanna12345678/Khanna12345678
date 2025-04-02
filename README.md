@@ -22,10 +22,6 @@ When I'm not coding, you'll find me learning **system design**, deep diving into
 
 ---
 
-### 📊 GitHub Stats  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
-
----
 
 ### 🏆 Projects I'm Proud Of  
 #### **1️⃣ Job Finder Platform** 🔍   
