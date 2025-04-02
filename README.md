@@ -1,4 +1,4 @@
-### Hi there, I'm Khanna! 👋  
+### Hi there, I'm Nitesh Khanna! 👋  
 
 💻 **Full Stack Developer | Passionate about building scalable web applications**  
 🎯 **LeetCode & Codeforces enthusiast** with **1000+ DSA problems solved**  
