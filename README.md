@@ -1,12 +1,12 @@
 ### Hi there, I'm Khanna! 👋  
 
-🚀 **Full Stack Developer | Passionate about building scalable web applications**  
+💻 **Full Stack Developer | Passionate about building scalable web applications**  
+🎯 **LeetCode & Codeforces enthusiast** with **1000+ DSA problems solved**  
 
-I'm a dedicated developer specializing in **MERN stack** with a strong foundation in **Data Structures & Algorithms**.  
-I love solving real-world problems using tech and exploring new frameworks & APIs.  
+I love building real-world projects, optimizing performance, and exploring new technologies.  
+When I'm not coding, you'll find me learning **system design**, deep diving into **APIs**, or solving **DSA problems**!  
 
-💡 **Ask me about:** MERN Stack, APIs, Authentication, Data Structures  
-📫 **How to reach me:** [LinkedIn](your-linkedin-profile)  
+📫 **Let's connect:** [LinkedIn](your-linkedin-profile)  
 
 ---
 
@@ -19,6 +19,11 @@ I love solving real-world problems using tech and exploring new frameworks & API
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)  
+
+---
+
+### 📊 GitHub Stats  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
 
 ---
 
@@ -50,11 +55,6 @@ I love solving real-world problems using tech and exploring new frameworks & API
 
 ---
 
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khanna12345678&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khanna12345678&layout=compact&theme=dark)  
-
----
-
-🔗 **Portfolio:** [My Website](your-portfolio-link)  
-
+### 🎯 What I'm Currently Working On  
+🚀 Enhancing my backend skills with **Microservices & AWS**  
+📌 Learning **System Design & Scalability**  
