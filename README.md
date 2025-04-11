@@ -6,7 +6,7 @@
 I love building real-world projects, optimizing performance, and exploring new technologies.  
 When I'm not coding, you'll find me learning **system design**, deep diving into **APIs**, or solving **DSA problems**!  
 
-📫 **Let's connect:** [LinkedIn](your-linkedin-profile)  
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/nitesh-khanna-75334b23b/)  
 
 ---
 
@@ -30,7 +30,7 @@ When I'm not coding, you'll find me learning **system design**, deep diving into
 - Users can filter jobs by **location, title, and industry** for an optimized search experience.  
 - Developed a clean **Material-UI** frontend for seamless navigation.  
 
-🔗 [View Code](#)  
+🔗 [View Code](https://github.com/Khanna12345678/Job_Voyager)  
 
 #### **2️⃣ Contact Manager** 📞  
 **Tech Stack:** React — Trie Data Structure — Node.js — Express — REST API  
@@ -38,7 +38,7 @@ When I'm not coding, you'll find me learning **system design**, deep diving into
 - Built a full-stack **contact management system** with features like **instant search, bulk operations, and CRUD APIs**.  
 - Designed a **responsive UI** with **real-time updates** and **error handling**.  
 
-🔗 [View Code](#) | [Live App](#)  
+🔗 [View Code](https://github.com/Khanna12345678/ContactManager) 
 
 #### **3️⃣ Blog Application** 📝  
 **Tech Stack:** React.js — Node.js — Express.js — MongoDB — Tailwind CSS — Google OAuth  
@@ -47,7 +47,7 @@ When I'm not coding, you'll find me learning **system design**, deep diving into
 - Admin-only post management: **Create, Edit, Delete** blog posts.  
 - Users can **comment, like/dislike, and update profiles**.  
 
-🔗 [View Code](#) | [Live App](#)  
+🔗 [View Code](https://github.com/Khanna12345678/mern-blog) | [Live App](https://mern-blog-final-3e2i.onrender.com/)  
 
 ---
 
